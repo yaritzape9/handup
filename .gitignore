@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+server/.env
+client/.env
+client/build/
+server/build/
